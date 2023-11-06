@@ -1,4 +1,3 @@
-# DDTC
 ### A Comparitive Test For Duplicate Detection Tools Specialized for Art
 
 ### Objectives
